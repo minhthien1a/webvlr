@@ -990,11 +990,6 @@ body{
 		margin: 30px 2px;
 		text-align: center;
 	}
-	#chude-sp{
-		font-size: 35px;
-		margin: 30px 2px;
-		text-align: center;
-	}
 	#text-me{
 		margin-top: 35%;
 	}
@@ -1222,31 +1217,8 @@ body{
 		width: 320px;
 		height: 250px;
 	}
-	
-	#main1-sp{
-		padding-bottom: 1%;
-	}
-	#chude-sp:before{
-		display: none;
-	}
-	#main1-sp{
-		flex-direction: column;
-	}
-	#mauden{
-		width: 100%;
-	}
-	#hinh-sp img{
-		width: 85%;
-		margin-top: 25%;
-	}
 	#text-me{
 		width: 80%;
 		margin-left: 0;
-	}
-	#khungcangiua-sp span img{
-		width: 100%;
-	}
-	#khungcangiua-sp span1 img{
-		width: 100%;
 	}
 }
