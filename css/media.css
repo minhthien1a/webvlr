@@ -784,7 +784,7 @@ body{
 .pon span{
 	position: absolute;
 	z-index: 2;
-	bottom: -4px;
+	bottom: -1px;
 	font-family: 'Roboto', sans-serif;
 	color: #d5d3cd;
 	background-color: #0f1923;
@@ -986,6 +986,11 @@ body{
 		width: 200%;
 	}
 	#chude-me{
+		font-size: 35px;
+		margin: 30px 2px;
+		text-align: center;
+	}
+	#chude-sp{
 		font-size: 35px;
 		margin: 30px 2px;
 		text-align: center;
@@ -1207,7 +1212,7 @@ body{
 		width: 100%;
 	}
 	#hinh-me img{
-		width: 85%;
+		width: 75%;
 	}
 	#text-me{
 		width: 80%;
@@ -1217,8 +1222,32 @@ body{
 		width: 320px;
 		height: 250px;
 	}
+	
+	#main1-sp{
+		padding-bottom: 1%;
+	}
+	#chude-sp:before{
+		display: none;
+	}
+	#main1-sp{
+		flex-direction: column;
+	}
+	#mauden{
+		width: 100%;
+	}
+	#hinh-sp img{
+		width: 85%;
+		margin-top: 25%;
+	}
 	#text-me{
 		width: 80%;
 		margin-left: 0;
 	}
+	#khungcangiua-sp span img{
+		width: 100%;
+	}
+	#khungcangiua-sp span1 img{
+		width: 100%;
+	}
+	
 }

@@ -985,10 +985,21 @@ body{
 	.hero-video video{
 		width: 200%;
 	}
+	#chude-me{
+		font-size: 35px;
+		margin: 30px 2px;
+		text-align: center;
+	}
 	#chude-sp{
 		font-size: 35px;
 		margin: 30px 2px;
 		text-align: center;
+	}
+	#text-me{
+		margin-top: 35%;
+	}
+	#text-me h1{
+		font-size: 35px;
 	}
 	#logofoot{
 		margin-left: 120px;
@@ -1188,6 +1199,29 @@ body{
 	#button44{
 		margin-right: 7%;
 	}
+	#main1-me{
+		padding-bottom: 1%;
+	}
+	#chude-me:before{
+		display: none;
+	}
+	#main1-me{
+		flex-direction: column;
+	}
+	#mauhong{
+		width: 100%;
+	}
+	#hinh-me img{
+		width: 85%;
+	}
+	#text-me{
+		width: 80%;
+		margin-left: 0;
+	}
+	#main2-me .pon{
+		width: 320px;
+		height: 250px;
+	}
 	
 	#main1-sp{
 		padding-bottom: 1%;
@@ -1204,6 +1238,10 @@ body{
 	#hinh-sp img{
 		width: 85%;
 		margin-top: 25%;
+	}
+	#text-me{
+		width: 80%;
+		margin-left: 0;
 	}
 	#khungcangiua-sp span img{
 		width: 100%;
